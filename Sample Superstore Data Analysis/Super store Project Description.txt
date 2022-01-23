@@ -1,0 +1,1 @@
+This project deals with the representation of analysis of super store data using various charts in Tableau. It gives an overview of few techniques used to identify patterns in the data set and understand which visualization/ models should be used to represent the correct information regarding the data.

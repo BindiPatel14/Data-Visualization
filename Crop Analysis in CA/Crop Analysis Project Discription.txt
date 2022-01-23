@@ -1,0 +1,1 @@
+This project consists of the visualizations of analysis of yield of crops in CA from 1971 to 1975. It consists of a story to showcase comparison between various types fo crops grown in CA during that time period.

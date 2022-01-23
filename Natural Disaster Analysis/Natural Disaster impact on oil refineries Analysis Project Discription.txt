@@ -1,0 +1,1 @@
+The data for this project deals with impacts of Natural disasters on Oil refineries in the US. I have used geographic analysis and visualization techniques to showcase the areas where natural disasters affected oil refineries and the effect of the impact of them on the refineries.
